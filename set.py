@@ -8,5 +8,5 @@ class MathSet:
     def __repr__(self):
         return "{" + ", ".join(str(e) for e in self.elements) + "}"
 
-    def contains(self, element):
+    def __contains__(self, element):
         return element in self.elements
