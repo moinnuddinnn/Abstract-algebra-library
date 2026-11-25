@@ -1,4 +1,4 @@
-#Set Module. It containts program for basic mathematical Sets.
+#Set Module. It containts program for basic mathematical Sets
 
 class MathSet:
 
